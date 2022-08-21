@@ -1,0 +1,15 @@
+C:\Users\Andrew\source\repos\MoreOrLess\MoreOrLess\bin\Debug\net6.0\MoreOrLess.exe
+C:\Users\Andrew\source\repos\MoreOrLess\MoreOrLess\bin\Debug\net6.0\MoreOrLess.deps.json
+C:\Users\Andrew\source\repos\MoreOrLess\MoreOrLess\bin\Debug\net6.0\MoreOrLess.runtimeconfig.json
+C:\Users\Andrew\source\repos\MoreOrLess\MoreOrLess\bin\Debug\net6.0\MoreOrLess.dll
+C:\Users\Andrew\source\repos\MoreOrLess\MoreOrLess\bin\Debug\net6.0\MoreOrLess.pdb
+C:\Users\Andrew\source\repos\MoreOrLess\MoreOrLess\obj\Debug\net6.0\MoreOrLess.csproj.AssemblyReference.cache
+C:\Users\Andrew\source\repos\MoreOrLess\MoreOrLess\obj\Debug\net6.0\MoreOrLess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrew\source\repos\MoreOrLess\MoreOrLess\obj\Debug\net6.0\MoreOrLess.AssemblyInfoInputs.cache
+C:\Users\Andrew\source\repos\MoreOrLess\MoreOrLess\obj\Debug\net6.0\MoreOrLess.AssemblyInfo.cs
+C:\Users\Andrew\source\repos\MoreOrLess\MoreOrLess\obj\Debug\net6.0\MoreOrLess.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\source\repos\MoreOrLess\MoreOrLess\obj\Debug\net6.0\MoreOrLess.dll
+C:\Users\Andrew\source\repos\MoreOrLess\MoreOrLess\obj\Debug\net6.0\refint\MoreOrLess.dll
+C:\Users\Andrew\source\repos\MoreOrLess\MoreOrLess\obj\Debug\net6.0\MoreOrLess.pdb
+C:\Users\Andrew\source\repos\MoreOrLess\MoreOrLess\obj\Debug\net6.0\MoreOrLess.genruntimeconfig.cache
+C:\Users\Andrew\source\repos\MoreOrLess\MoreOrLess\obj\Debug\net6.0\ref\MoreOrLess.dll
