@@ -57,7 +57,7 @@ int HoCo(const char * str) {
         case '$':
         case '%':
         case 'B':
-        case '8': counter=+2;
+        case '8': counter = counter + 2;
             break;
         default:
             break;
