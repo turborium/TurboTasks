@@ -44,4 +44,5 @@
 ---
 # Список выполненных задач:
 - Подсчет "дырочек" в тексте: https://github.com/Fikerus/holes
-- Подсчет "дырочек" в тексте: https://github.com/ketchuup/Holes
+- Подсчёт "дырочек" в тексте: https://github.com/ketchuup/Holes
+- Подсчёт "дырочек" в произвольном тексте: https://github.com/ketchuup/Any
