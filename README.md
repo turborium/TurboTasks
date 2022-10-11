@@ -49,4 +49,4 @@
 - Подсчет "дырочек" в тексте: https://gist.github.com/rprtr258/ae549c12fbcbb7c70542ec3a8d4072a8
 - Подсчет "дырочек" в тексте: https://github.com/osennij-morok/dyrochki (+)
 - Подсчёт "дырочек" в тексте: https://github.com/ketchuup/Holes
-- Подсчёт "дырочек" в произвольном тексте: https://github.com/ketchuup/Any
+- Подсчёт "дырочек" в произвольном тексте: https://github.com/ketchuup/Any (+)
