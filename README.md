@@ -50,3 +50,4 @@
 - Подсчет "дырочек" в тексте: https://github.com/osennij-morok/dyrochki (+)
 - Подсчёт "дырочек" в тексте: https://github.com/ketchuup/Holes
 - Подсчёт "дырочек" в произвольном тексте: https://github.com/ketchuup/Any (+)
+- Подсчёт "дырочек" в произвольном тексте: https://github.com/Fikerus/holes-canvas
