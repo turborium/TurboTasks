@@ -5,7 +5,6 @@
 - Игра "больше меньше" (Загадывается число от 1 до 1000, задача игрока - угадать число за 10 попыток).
 - Подсчет "дырочек" в тексте. (Например в слове "Windows" - 2 дырочки, а в слове "Linux" - 0 дырочек)  
 - Приложение заменяющие все "Л" на "Р" в тексте, (анимезиция). компилятор сломался -> компиряртор сромарся  
-https://github.com/BohdanLiuisk/kal-prilozhenie/blob/main/Program.cs
 
 ### Средне
 - Нормальные крестики-нолики
@@ -55,3 +54,4 @@ https://github.com/BohdanLiuisk/kal-prilozhenie/blob/main/Program.cs
 - Подсчёт "дырочек" в тексте: https://github.com/ketchuup/Holes
 - Подсчёт "дырочек" в произвольном тексте: https://github.com/ketchuup/Any (+/-)
 - Подсчёт "дырочек" в произвольном тексте: https://github.com/Fikerus/holes-canvas (+)
+- Приложение заменяющие все "Л" на "Р" в тексте: https://github.com/BohdanLiuisk/kal-prilozhenie/blob/main/Program.cs
