@@ -55,3 +55,4 @@
 - Подсчёт "дырочек" в произвольном тексте: https://github.com/ketchuup/Any (+/-)
 - Подсчёт "дырочек" в произвольном тексте: https://github.com/Fikerus/holes-canvas (+)
 - Приложение заменяющие все "Л" на "Р" в тексте: https://github.com/BohdanLiuisk/kal-prilozhenie/blob/main/Program.cs
+- Приложение заменяющие все "Л" на "Р" в тексте с озвучкой: https://github.com/LeenzeryDev/Animezator/
