@@ -9,6 +9,7 @@
 - Задачи отсюда: http://pascalabc.net/downloads/Books/Rubantsev/InterestLessPas.pdf  
 - Задачи отсюда: http://pascalabc.net/downloads/Books/Rubantsev/InterestProjProjects.pdf  
 - Задачи отсюда: http://pascalabc.net/downloads/Books/Rubantsev/SFML.pdf  
+- 1000 задач: http://ptaskbook.com/ru/  
 
 ### Средне
 - Нормальные крестики-нолики
