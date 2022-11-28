@@ -6,6 +6,9 @@
 - Подсчет "дырочек" в тексте. (Например в слове "Windows" - 2 дырочки, а в слове "Linux" - 0 дырочек)  
 - Приложение заменяющие все "Л" на "Р" в тексте, (анимезиция). компилятор сломался -> компирятор сромарся  
 - Задачи отсюда: http://pascalabc.net/downloads/Books/Rubantsev/InterestProjProjects.pdf  
+- Задачи отсюда: http://pascalabc.net/downloads/Books/Rubantsev/InterestLessPas.pdf  
+- Задачи отсюда: http://pascalabc.net/downloads/Books/Rubantsev/InterestProjProjects.pdf  
+- Задачи отсюда: http://pascalabc.net/downloads/Books/Rubantsev/SFML.pdf  
 
 ### Средне
 - Нормальные крестики-нолики
