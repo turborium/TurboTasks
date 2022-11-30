@@ -10,6 +10,7 @@
 - Задачи отсюда: http://pascalabc.net/downloads/Books/Rubantsev/InterestProjProjects.pdf  
 - Задачи отсюда: http://pascalabc.net/downloads/Books/Rubantsev/SFML.pdf  
 - 1000 задач: http://ptaskbook.com/ru/  
+- Pадачи/алгоритмы: http://algolist.ru/  
 
 ### Средне
 - Нормальные крестики-нолики
