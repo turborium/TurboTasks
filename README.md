@@ -66,3 +66,4 @@
 - Приложение заменяющие все "Л" на "Р" в тексте с озвучкой: https://github.com/LeenzeryDev/Animezator/
 - Приложение заменяющее все "Л" на "Р" в тексте с озвучкой: https://github.com/cloudlyhimo/tts_repl_py
 - Игра "Змейка": https://github.com/rolexxxandr/snake-pygame
+- Telegram-bot для подсчета "дырочек" в тексте. (Например в слове "Windows" - 2 дырочки, а в слове "Linux" - 0 дырочек): https://github.com/rolexxxandr/holes-tgbot
