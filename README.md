@@ -66,3 +66,4 @@
 - Приложение заменяющие все "Л" на "Р" в тексте с озвучкой: https://github.com/LeenzeryDev/Animezator/
 - Приложение заменяющее все "Л" на "Р" в тексте с озвучкой: https://github.com/cloudlyhimo/tts_repl_py
 - Игра "Змейка": https://github.com/rolexxxandr/snake-pygame
+- Игра "Жизнь Конвея": https://github.com/rolexxxandr/conways-game
