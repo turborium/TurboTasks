@@ -171,32 +171,39 @@
 		<li>
 			<details>
 				<summary>Подсчет "дырочек" в тексте.</summary>
-        <ul>
-				<li> https://github.com/ketchuup/Holes</li>
-				<li> https://github.com/Fikerus/holes</li>
-				<li> https://gist.github.com/rprtr258/ae549c12fbcbb7c70542ec3a8d4072a8</li>
-				<li> https://github.com/osennij-morok/dyrochki (+)</li>
-          <li> https://github.com/ketchuup/Holes</li>
-          </ul>
+				<ul>
+					<li> https://github.com/ketchuup/Holes</li>
+					<li> https://github.com/Fikerus/holes</li>
+					<li> https://gist.github.com/rprtr258/ae549c12fbcbb7c70542ec3a8d4072a8</li>
+					<li> https://github.com/osennij-morok/dyrochki (+)</li>
+					<li> https://github.com/ketchuup/Holes</li>
+				</ul>
 			</details>
 		</li>
 		<li>
 			<details>
 				<summary>Подсчёт "дырочек" в произвольном тексте.</summary>
-         <ul>
-				<li> https://github.com/ketchuup/Any (+/-)</li>
-				<li> https://github.com/Fikerus/holes-canvas (+)</li>
-            </ul>
+				<ul>
+					<li> https://github.com/ketchuup/Any (+/-)</li>
+					<li> https://github.com/Fikerus/holes-canvas (+)</li>
+				</ul>
 			</details>
 		</li>
 		<li>
 			<details>
 				<summary>Приложение заменяющие все "Л" на "Р" в тексте.</summary>
-        <ul>
-				<li>https://github.com/BohdanLiuisk/kal-prilozhenie/blob/main/Program.cs</li>
-				<li>https://github.com/LeenzeryDev/Animezator/</li>
-				<li>https://github.com/cloudlyhimo/tts_repl_py</li>
-          </ul>
+				<ul>
+					<li>https://github.com/BohdanLiuisk/kal-prilozhenie/blob/main/Program.cs</li>
+				</ul>
+			</details>
+		</li>
+		<li>
+			<details>
+				<summary>Приложение заменяющие все "Л" на "Р" в тексте с озвучкой.</summary>
+				<ul>
+					<li>https://github.com/LeenzeryDev/Animezator/</li>
+					<li>https://github.com/cloudlyhimo/tts_repl_py</li>
+				</ul>
 			</details>
 		</li>
 		<li>
@@ -216,5 +223,5 @@
 				<summary>Telegram-bot для подсчета "дырочек" в тексте.</summary>
 				<p>https://github.com/rolexxxandr/holes-tgbot</p>
 			</details>
-		</li>	
+		</li>
 </details>
