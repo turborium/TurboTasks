@@ -1,16 +1,16 @@
 # TurboTasks
-## Задачи для начиниющих и не очень программистов
+## Задачи для начинающих и не очень программистов
 
 ### Легко
 - Игра "больше меньше" (Загадывается число от 1 до 1000, задача игрока - угадать число за 10 попыток).
 - Подсчет "дырочек" в тексте. (Например в слове "Windows" - 2 дырочки, а в слове "Linux" - 0 дырочек)  
-- Приложение заменяющие все "Л" на "Р" в тексте, (анимезиция). компилятор сломался -> компирятор сромарся  
+- Приложение заменяющее все "Л" на "Р" в тексте, (анимезиция). компилятор сломался -> компирятор сромарся  
 - Задачи отсюда: http://pascalabc.net/downloads/Books/Rubantsev/InterestProjProjects.pdf  
 - Задачи отсюда: http://pascalabc.net/downloads/Books/Rubantsev/InterestLessPas.pdf  
 - Задачи отсюда: http://pascalabc.net/downloads/Books/Rubantsev/InterestProjProjects.pdf  
 - Задачи отсюда: http://pascalabc.net/downloads/Books/Rubantsev/SFML.pdf  
 - 1000 задач: http://ptaskbook.com/ru/  
-- Pадачи/алгоритмы: http://algolist.ru/  
+- Задачи/алгоритмы: http://algolist.ru/  
 
 ### Средне
 - Нормальные крестики-нолики
