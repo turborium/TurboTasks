@@ -1,4 +1,4 @@
-# TurboTasks
+InterestProjProjects# TurboTasks
 ## Задачи для начиниющих и не очень программистов
 
 
@@ -10,7 +10,7 @@
  - Приложение заменяющие все "Л" на "Р" в тексте, (анимезиция).
    - Компилятор сломался -> Компирятор сромарся.
  - Другие задачи.
-   - Задачи [отсюда](http://pascalabc.net/downloads/Books/Rubantsev/InterestProjProjects.pdf), [отсюда](http://pascalabc.net/downloads/Books/Rubantsev/InterestLessPas.pdf), [отсюда](http://pascalabc.net/downloads/Books/Rubantsev/InterestProjProjects.pdf), [отсюда](http://pascalabc.net/downloads/Books/Rubantsev/SFML.pdf).
+   - Задачи [отсюда](http://pascalabc.net/downloads/Books/Rubantsev/InterestLessPas.pdf), [отсюда](http://pascalabc.net/downloads/Books/Rubantsev/InterestProjProjects.pdf), [отсюда](http://pascalabc.net/downloads/Books/Rubantsev/SFML.pdf).
    - [1000 задач](http://ptaskbook.com/ru).
    - [Задачи/алгоритмы](http://algolist.ru).
 
