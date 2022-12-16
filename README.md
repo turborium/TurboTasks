@@ -74,8 +74,12 @@
    - https://github.com/cloudlyhimo/tts_repl_py
  - Игра "Змейка".
    - https://github.com/rolexxxandr/snake-pygame
+   - https://github.com/Vertiigor/Snake
  - Игра "Жизнь Конвея".
    - https://github.com/rolexxxandr/conways-game
+   - https://github.com/Vertiigor/Conway-Life
  - Telegram-bot для подсчета "дырочек" в тексте.
    - https://github.com/rolexxxandr/holes-tgbot
+ - Интерпритатор любого языка программирования.
+   - https://github.com/Vertiigor/BrainFuck
 
