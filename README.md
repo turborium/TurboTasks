@@ -83,4 +83,5 @@
    - https://github.com/rolexxxandr/holes-tgbot
  - Интерпритатор любого языка программирования.
    - https://github.com/Vertiigor/BrainFuck
-
+- Игра "Виселица".
+   - https://github.com/rolexxxandr/hangman
