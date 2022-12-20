@@ -75,6 +75,7 @@
  - Игра "Змейка".
    - https://github.com/rolexxxandr/snake-pygame
    - https://github.com/Vertiigor/Snake
+   - https://github.com/a1excoder/AlexSnake
  - Игра "Жизнь Конвея".
    - https://github.com/rolexxxandr/conways-game
    - https://github.com/Vertiigor/Conway-Life
