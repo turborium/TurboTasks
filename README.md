@@ -89,4 +89,4 @@
 - Игра "Виселица".
    - https://github.com/rolexxxandr/hangman
 - Калькулятор.
-   - https://github.com/OleksandrTolmachov/Calculator
+   - https://github.com/OleksandrTolmachov/Calculator (не соответсвует условиям, оверинженериг)
