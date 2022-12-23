@@ -89,3 +89,5 @@
    - https://github.com/Vertiigor/BrainFuck
 - Игра "Виселица".
    - https://github.com/rolexxxandr/hangman
+- Калькулятор.
+   - https://github.com/OleksandrTolmachov/Calculator
