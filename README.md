@@ -87,7 +87,7 @@
  - Telegram-bot для подсчета "дырочек" в тексте.
    - https://github.com/rolexxxandr/holes-tgbot
  - Интерпритатор любого языка программирования.
-   - https://github.com/Vertiigor/BrainFuck
+   - https://github.com/Vertiigor/BrainFuck (не соответсвует условиям, изотерика)  
 - Игра "Виселица".
    - https://github.com/rolexxxandr/hangman
 - Калькулятор.
