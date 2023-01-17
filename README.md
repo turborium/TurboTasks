@@ -71,7 +71,9 @@
  - Парсер математических выражений вида "4+5*2".
    - [пример](https://github.com/turborium/SimpleMathParser).
  - Интерпритатор любого языка программирования. (не изотерического - типо brainfuck)  
-   - [пример](https://github.com/turborium/turboriumbasic).
+   - [пример](https://github.com/turborium/turboriumbasic).  
+ - Эмулятор древней консоли CHIP-8.   
+  https://en.wikipedia.org/wiki/CHIP-8
 ---
 ### Список выполненных задач.
  - Подсчет "дырочек" в тексте.
