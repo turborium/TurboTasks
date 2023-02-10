@@ -98,6 +98,7 @@
  - Игра "Жизнь Конвея".
    - https://github.com/rolexxxandr/conways-game
    - https://github.com/Vertiigor/Conway-Life
+   - https://github.com/rockdee23/life
  - Telegram-bot для подсчета "дырочек" в тексте.
    - https://github.com/rolexxxandr/holes-tgbot
  - Интерпритатор любого языка программирования.
