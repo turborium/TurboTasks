@@ -114,3 +114,4 @@
    - https://github.com/IamBogdan/2048web
 - Приложение для изменения цвета выделения на рабочем столе Windows
     - https://github.com/Atl4nt/ColorSelectionChanger
+    - https://github.com/n0dere/HiCC
