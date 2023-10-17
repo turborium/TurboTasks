@@ -54,6 +54,7 @@
    - [пример](https://github.com/turborium/Dither3)
  - Приложение заменяющие все "Л" на "Р" в тексте, и озвучивающее результат.
    - компилятор сломался -> компирятор сромарся [пример](https://github.com/turborium/microsoft-text-to-speech-delphi-example)
+ - PWA камера с пиксельными эффектами. [пример](https://github.com/turborium/turbopixel)
 
 ### Очень сложно.
  - Калькулятор (без готового парсера, скобок и т.д.). Проверяю на стриме.
