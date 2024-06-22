@@ -42,6 +42,7 @@
  - Приложение для изменения цвета выделения на рабочем столе Windows. Это достаточно легко, надо поменять всего 2 ключа в реестре: https://www.youtube.com/shorts/b7S9EcmGOx0. Приложение должно обладать графическим интерфейсом, и не быть консольной подделкой. Хорошо если будет кнопка "вернуть к дефолтным настройкам".
  - Отрисовка Кривой Безье алгоритмом Chaikins. Подробности по [ссылке](https://github.com/turborium/ChaikinsAlgorithmExplorer).
  - Эффект "Sorting Pixels". Подробности по [ссылке](https://github.com/turborium/SortingPixels).
+ - Невероятный эффект PocketGalaxy. Реализация на [ObjectPascal](https://github.com/turborium/PocketGalaxy) и [JavaScript](https://github.com/turborium/PocketGalaxyJs).
 
 ### Сложный уровень
  - Птичка типа "Flappy Bird".
