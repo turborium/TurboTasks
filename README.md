@@ -113,6 +113,7 @@
    - https://github.com/rolexxxandr/hangman
 - Калькулятор.
    - https://github.com/OleksandrTolmachov/Calculator (не соответсвует условиям, оверинженериг)
+   - https://github.com/trashcanDefini7/BasicCalculator
 - Игра 2048.
    - https://github.com/IamBogdan/2048web
 - Приложение для изменения цвета выделения на рабочем столе Windows
