@@ -101,6 +101,9 @@
    - https://github.com/rolexxxandr/snake-pygame
    - https://github.com/Vertiigor/Snake
    - https://github.com/a1excoder/AlexSnake
+   - https://github.com/voldemar224/Snake
+ - Игра "Тетрис".
+   - https://github.com/voldemar224/Tetris
  - Игра "Жизнь Конвея".
    - https://github.com/rolexxxandr/conways-game
    - https://github.com/Vertiigor/Conway-Life
