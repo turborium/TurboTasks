@@ -122,3 +122,5 @@
 - Приложение для изменения цвета выделения на рабочем столе Windows
     - https://github.com/Atl4nt/ColorSelectionChanger
     - https://github.com/n0dere/HiCC
+- Рисовалка типа "Paint".
+    - https://github.com/Markusssssu/Paint-Clone
